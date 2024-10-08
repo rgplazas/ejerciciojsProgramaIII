@@ -15,10 +15,10 @@ Una vez obtenidos los datos, se deben realizar las siguientes acciones:
 
 Requisitos técnicos:
   - Debes utilizar las siguientes funcionalidades de JavaScript:
-    -- Variables para almacenar los datos del usuario.
-    -- El método prompt() para solicitar datos al usuario.
-    -- El método document.write() para mostrar el mensaje en la página web.
-    -- El uso de console.log() para realizar la validación de la edad.
+    - Variables para almacenar los datos del usuario.
+    - El método prompt() para solicitar datos al usuario.
+    - El método document.write() para mostrar el mensaje en la página web.
+    - El uso de console.log() para realizar la validación de la edad.
 
 Consideraciones:
   - Asegúrate de que el mensaje en la página HTML se muestre correctamente con los datos ingresados por el usuario.
